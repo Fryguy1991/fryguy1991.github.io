@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.chrisf.socialq",
+      "sha256_cert_fingerprints": [
+        "C7:0F:34:B7:FB:A4:7A:F1:EA:68:80:20:A4:BE:82:57:D5:85:20:DD:E3:1C:45:05:11:6D:0F:CF:15:78:14:40"
+      ]
+    }
+  }
+]
